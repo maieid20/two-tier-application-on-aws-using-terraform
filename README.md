@@ -80,3 +80,22 @@ two-tier-architecture/
 │
 └── README.md
 
+
+## 🚀 Deployment Steps
+Follow these steps to deploy the infrastructure using Terraform:
+
+---
+
+###  1. Go to Project Directory
+```bash
+cd root
+###  2. Initialize Terraform
+```bash
+terraform init
+###  3. Preview Execution Plan
+```bash
+terraform plan
+###  4. Deploy Infrastructure
+terraform apply
+
+
