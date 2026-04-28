@@ -20,7 +20,7 @@ The architecture separates the application into:
 ## 🏗️ Architecture Diagram
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/65ffab69-40e2-412c-97b7-89e0fd1fb389" width="750"/>
+  <img src="https://github.com/user-attachments/assets/f8cc2d7c-38d7-4af0-8f6a-6e368fb5dca3" width="750"/>
 </div>
 
 ---
